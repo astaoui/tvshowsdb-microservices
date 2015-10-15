@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: supervisor
+
+info:
+  name: ${spring.application.name}
+
+server:
+  port: 8001
+
+endpoints:
+  shutdown:
+    sensitive: false
+    enabled: true
