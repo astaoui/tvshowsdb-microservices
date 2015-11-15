@@ -16,6 +16,10 @@ endpoints:
   health:
     sensitive: false
 
+feign:
+  hystrix:
+    enabled: false
+
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 1
