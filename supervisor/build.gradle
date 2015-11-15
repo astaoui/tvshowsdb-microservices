@@ -5,6 +5,9 @@ apply plugin: 'org.springframework.boot'
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
 
+    compile('org.springframework.cloud:spring-cloud-starter-eureka-server')
+    compile("com.github.vanroy:spring-cloud-dashboard:${springCloudDashboardVersion}")
+
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 

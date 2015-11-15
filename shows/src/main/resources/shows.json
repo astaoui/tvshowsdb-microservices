@@ -56,13 +56,15 @@
     "id": "orange-is-the-new-black",
     "name": "Orange Is the New Black",
     "description": "The series revolves around Piper Chapman (Taylor Schilling), a woman in her thirties living in New York City, who is sentenced to 15 months in Litchfield Penitentiary, a minimum-security women''s federal prison (operated by the \"Federal Department of Corrections\", a fictionalized version of the Federal Bureau of Prisons) in upstate New York. Piper has been convicted of transporting a suitcase full of drug money for her then girlfriend Alex Vause (Laura Prepon), an international drug smuggler. The offense had occurred 10 years prior to the start of the series, and in that time Piper had moved on to a quiet, law-abiding life among New York''s upper middle class, so her sudden and unexpected indictment seriously disrupts her relationships with her fiancé, family and friends.",
-    "seasons": 4
+    "seasons": 4,
+    "actors": []
   },
   {
     "_class": "com.github.vanroy.tvshowsdb.model.Show",
     "id": "house-of-cards",
     "name": "House of Cards",
     "description": "House of Cards is an American political drama television series developed and produced by Beau Willimon. It is an adaptation of the BBC''s mini-series of the same name and is based on the novel by Michael Dobbs. The entire first season, comprising thirteen episodes, premiered on February 1, 2013, on the streaming service Netflix. A second season of thirteen episodes premiered on February 14, 2014, while a third season premiered on February 27, 2015. House of Cards has been renewed for a fourth season, which will premiere in 2016. Willimon has stated that plans for the show''s future are decided after each season.",
-    "seasons": 4
+    "seasons": 4,
+    "actors": []
   }
 ]

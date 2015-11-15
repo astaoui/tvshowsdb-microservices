@@ -12,3 +12,15 @@ endpoints:
   shutdown:
     sensitive: false
     enabled: true
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    enableSelfPreservation: false
+    waitTimeInMsWhenSyncEmpty: 2000
+  dashboard:
+    enabled: false
