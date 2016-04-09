@@ -2,6 +2,12 @@ spring:
   application:
     name: shows
 
+  cloud:
+    stream:
+      bindings:
+        actorChanges:
+          group: shows
+
 info:
   name: ${spring.application.name}
   version: ${version}
